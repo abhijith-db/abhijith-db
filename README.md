@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 Mostly inactive here. Reachable at:
-- [LinkedIn](linkedin.com/in/avmohan)  
-- [Github](github.com/avmohan)
+- [LinkedIn](https://linkedin.com/in/avmohan)  
+- [Github](https://github.com/avmohan)
 
 <!--
 **abhijith-db/abhijith-db** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
